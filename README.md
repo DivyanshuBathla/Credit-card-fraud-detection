@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Debit Card Fraud Detection
 
 This project was completed from December 2022 to February 2023 as a part of a machine learning course. The objective of this project was to develop a model to identify fraudulent debit card transactions.
 
